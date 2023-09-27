@@ -1,70 +1,19 @@
 __Multitrack Music Transformer__
 {:.center .larger}
 
-[Hao-Wen Dong](https://salu133445.github.io/) &emsp;
-[Ke Chen](https://www.knutchen.com/) &emsp;
-[Shlomo Dubnov](http://dub.ucsd.edu/) &emsp;
-[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) &emsp;
-[Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/)\\
-University of California San Diego
-{:.center}
-
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2207.06983.pdf" %} &emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/mmt/" %} &emsp;
-{% include icon_link.html text="video" icon=site.icons.video href="https://youtu.be/tAFLkcQWckg" %} &emsp;
-{% include icon_link.html text="slides" icon=site.icons.slides href="https://salu133445.github.io/mmt/pdf/mmt_icassp2023_slides.pdf" %} &emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/mmt" %} &emsp;
-{% include icon_link.html text="reviews" icon=site.icons.reviews href="https://salu133445.github.io/pdf/mmt_icassp2023_reviews.pdf" %}
-{:.center}
-
-{% include youtube_player.html id="7g0F0lMs18Y" %}
-
----
-
 ## Content
 
-- [Summary of the compared models](#summary)
-- [Best samples](#best-samples)
-  - [Best unconditioned generation samples](#best-unconditional)
-  - [Best instrument-informed generation samples](#best-instrument-informed)
-  - [Best 4-beat continuation samples](#best-4-beat-continuation)
-- [Examples of unconditional generation](#unconditional)
-- [Examples of instrument-informed generation](#instrument-informed)
-- [Examples of 4-beat continuation](#continuation-4-beat)
-- [Examples of 16-beat continuation](#continuation-16-beat)
-- [Citation](#citation)
+1. Music Generation Conditioned on "Genre"
+2. Music Generation Conditioned on "Program"
+3. Music Generation Conditioned on "Genre" and "Program"
 
----
 
-## Summary of the compared models {#summary}
-
-- __MMT__: Our proposed Multitrack Music Transformer model
-- __MMM__: A decoder-only transformer using the MultiTrack representation proposed by Ens and Pasquier (2020)[^ens2020]
-- __REMI+__: A decoder-only transformer using the REMI+ representation proposed by von Rütte et al. (2022)[^vonrutte2022]
-
-[^ens2020]: Jeff Ens and Philippe Pasquier, “MMM: Exploring conditional multi-track music generation with the transformer,” arXiv preprint arXiv:2008.06048, 2020.
-[^vonrutte2022]: Dimitri von Rütte, Luca Biggio, Yannic Kilcher, and Thomas Hofmann, “FIGARO: Generating symbolic music with fine-grained artistic control,” arXiv preprint arXiv:2201.10936, 2022.
-
-<div class="table-wrapper" markdown="block">
-
-| Model | Instrument control | Compound tokens | Average sample length (second) | Inference speed (notes per second) |
-|-|:-:|:-:|:-:|:-:|
-| MMT (ours) | __✓__ | __✓__ | __100.42__ | __11.79__ |
-| MMM | ✕ | ✕ | 38.69 | 5.66 |
-| REMI+ | ✕ | ✕ | 28.69 | 3.58 |
-
-</div>
-
-> __Note__: All the samples are generated in single pass through the model using a sequence length of 1024. Thus, the generated music is usually shorter for a more complex ensemble than a simple ensemble.
-
----
 
 ## Best samples {#best-samples}
 
-### Best unconditioned generation samples {#best-unconditional}
+### Best genre-informed generation samples 
 
-> __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
-
+> __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-tags' marker. The 'start-of-tags' marker is followed by genre tags that describe the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
 <div class="table-wrapper" markdown="block">
 
 | {% include audio_player.html filename="audio/sod/best/3_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/sod/best/12_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/sod/best/16_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/sod/best/23_unconditioned.mp3" style="width:240px;" %} |
@@ -72,11 +21,11 @@ University of California San Diego
 
 </div>
 
-### Best instrument-informed generation samples {#best-instrument-informed}
+### Best program-informed generation samples
 
-> __Settings__: The model is given a 'start-of-song' event followed by a sequence of instrument codes and a 'start-of-notes' event to start with. The model then generates the note sequence.
+> __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-program' marker. The 'start-of-program' marker is followed by programs that are used in the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper" markdown="block">k
 
 | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/sod/best/7_instrument-informed.mp3" %} |
 | __Ensemble__: contrabass, harp, english-horn, flute | {% include audio_player.html filename="audio/sod/best/40_instrument-informed.mp3" %} |
@@ -85,9 +34,9 @@ University of California San Diego
 
 </div>
 
-### Best 4-beat continuation samples {#best-4-beat-continuation}
+### Best program-genre-informed generation samples
 
-> __Settings__: All instrument and note events in the first 4 beats are provided to the model. The model then generates subsequent note events that continue the input music.
+> __Settings__: In this context, there exist five distinctive data event types: 'start-of-song,' 'start-of-program,' 'start-of-tags,' 'start-of-notes,' and 'end-of-song.' The 'start-of-program' event serves as an indicator for the initiation of a program list, while the 'start-of-tags' event marks the commencement of a tag list. Meanwhile, the 'start-of-notes' event signifies the outset of a sequence of music notes.
 
 <div class="table-wrapper" markdown="block">
 
@@ -156,19 +105,3 @@ University of California San Diego
 
 </div>
 
----
-
-## Citation {#citation}
-
-> Hao-Wen Dong, Ke Chen, Shlomo Dubnov, Julian McAuley and Taylor Berg-Kirkpatrick, "Multitrack Music Transformer," _Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2023.
-
-```bibtex
-@inproceedings{dong2023mmt,
-    author = {Hao-Wen Dong and Ke Chen and Shlomo Dubnov and Julian McAuley and Taylor Berg-Kirkpatrick},
-    title = {Multitrack Music Transformer},
-    booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-    year = 2023,
-}
-```
-
----
