@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
-title: Multitrack Music Transformer
-description: ICASSP 2023
+title: Leverage Large Language Model on Conditional Music Generation
+description: IEEE on Big Data AI Music Workshop
 show_downloads: false
 icons:
   homepage: fa-solid fa-globe-asia
