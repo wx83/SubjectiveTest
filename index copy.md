@@ -8,16 +8,16 @@ The aim of this subjective listening test is to assess the performance of our pr
 
 We sincerely appreciate your participation in this survey, and we welcome any comments and suggestions you may have!
 
-Weihan Xu \\
-Graduate Student\\
-Department of Computer Science\\
+Weihan Xu
+Graduate Student
+Department of Computer Science
 Duke University
 
-Hao-Wen Dong \\
-PhD Candidate \\
-Department of Computer Science and Engineering \\
-University of California San Diego\\
-salu133445.github.io\\
+Hao-Wen Dong
+PhD Candidate
+Department of Computer Science and Engineering
+University of California San Diego
+salu133445.github.io
 
 ## Link to the questionnaire
 
