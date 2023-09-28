@@ -13,7 +13,6 @@ Graduate Student\\
 Department of Computer Science\\
 Duke University
 
-
 Hao-Wen Dong \\
 PhD Candidate \\
 Department of Computer Science and Engineering \\
@@ -50,7 +49,7 @@ Weihan Xu: wx83@duke.edu
 
 > __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-program' marker. The 'start-of-program' marker is followed by programs that are used in the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
 
-<div class="table-wrapper" markdown="block">k
+<div class="table-wrapper" markdown="block">
 
 | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
 | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
