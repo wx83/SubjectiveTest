@@ -20,8 +20,7 @@ University of California San Diego\\
 salu133445.github.io\\
 
 ## Link to the questionnaire
-https://docs.google.com/forms/d/1K2nG6lodylKyAcvBVUrqK25HfelQ5IaViQFJizkg5e8/edit
-
+https://docs.google.com/forms/d/e/1FAIpQLScyVnDFJVgTz6t_vIp8bZqxT8QgmaoVGs_iHY5owBlQAvNoFw/viewform?usp=sf_link
 
 ## Contact
 Weihan Xu: wx83@duke.edu
