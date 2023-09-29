@@ -38,10 +38,10 @@ Weihan Xu: wx83@duke.edu
 <div class="table-wrapper" markdown="block">
 
 1A | __Ensemble__: classical | {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} |
-1B | __Ensemble__: soundtrack | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
+1B | __Ensemble__: newage | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
 1C | __Ensemble__: jazz| {% include audio_player.html filename="audio/genre_cond/2_genre_conditioned.mp3" %} |
-1D | __Ensemble__: comedy| {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
-1e | __Ensemble__: pop | {% include audio_player.html filename="audio/genre_cond/4_genre_conditioned.mp3" %} |
+1D | __Ensemble__: soundtrack| {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
+1e | __Ensemble__: comedy | {% include audio_player.html filename="audio/genre_cond/4_genre_conditioned.mp3" %} |
 
 
 
