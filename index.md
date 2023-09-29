@@ -53,8 +53,8 @@ Weihan Xu: wx83@duke.edu
 <div class="table-wrapper" markdown="block">
 
 2A | __Ensemble__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
-2B | __Ensemble__: voices, piano | {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
-2C | __Ensemble__: piano, trumpet, harmonica, guitar, bass and violin | {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
+2B | __Ensemble__: piano, trumpet, harmonica, guitar, bass and violin | {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
+2C | __Ensemble__: voices, piano,  | {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
 2D | __Ensemble__: recorder | {% include audio_player.html filename="audio/program_cond/4_instrument_conditioned.mp3" %} |
 2E | __Ensemble__: church-organ, trombone, tuba, horn | {% include audio_player.html filename="audio/program_cond/3_instrument_conditioned.mp3" %} |
 
