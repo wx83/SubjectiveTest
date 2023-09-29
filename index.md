@@ -37,11 +37,11 @@ Weihan Xu: wx83@duke.edu
 > __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-tags' marker. The 'start-of-tags' marker is followed by genre tags that describe the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
 <div class="table-wrapper" markdown="block">
 
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} |
-| __Ensemble__: contrabass, harp, english-horn, flute | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
-| __Ensemble__: trumpet, trombone | {% include audio_player.html filename="audio/genre_cond/2_genre_conditioned.mp3" %} |
-| __Ensemble__: church-organ, viola, contrabass, strings, voices, horn, oboe | {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
-| __Ensemble__: church-organ, viola, contrabass, strings, voices, horn, oboe | {% include audio_player.html filename="audio/genre_cond/4_genre_conditioned.mp3" %} |
+1A | __Ensemble__: classical | {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} |
+1B | __Ensemble__: soundtrack | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
+1C | __Ensemble__: jazz| {% include audio_player.html filename="audio/genre_cond/2_genre_conditioned.mp3" %} |
+1D | __Ensemble__: comedy| {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
+1e | __Ensemble__: pop | {% include audio_player.html filename="audio/genre_cond/4_genre_conditioned.mp3" %} |
 
 
 
@@ -53,11 +53,11 @@ Weihan Xu: wx83@duke.edu
 
 <div class="table-wrapper" markdown="block">
 
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/3_instrument_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/program_cond/4_instrument_conditioned.mp3" %} |
+2A | __Ensemble__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
+2B | __Ensemble__: voices, piano | {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
+2C | __Ensemble__: piano, trumpet, harmonica, guitar, bass and violin | {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
+2D | __Ensemble__: recorder | {% include audio_player.html filename="audio/program_cond/3_instrument_conditioned.mp3" %} |
+2E | __Ensemble__: church-organ, trombone, tuba, horn | {% include audio_player.html filename="audio/program_cond/4_instrument_conditioned.mp3" %} |
 
 </div>
 
@@ -67,11 +67,11 @@ Weihan Xu: wx83@duke.edu
 
 <div class="table-wrapper" markdown="block">
 
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
-| __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
+3A | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
+3B | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
+3C | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
+3D | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
+3E | __Ensemble__: piano, church-organ, voices | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
 
 </div>
 
@@ -82,7 +82,11 @@ Weihan Xu: wx83@duke.edu
 > __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
 
 <div class="table-wrapper" markdown="block">
-| {% include audio_player.html filename="audio/uncond/0_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/uncond/1_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/uncond/2_unconditioned.mp3" style="width:240px;" %} | {% include audio_player.html filename="audio/uncond/3_unconditioned.mp3" style="width:240px;" %} | | {% include audio_player.html filename="audio/uncond/4_unconditioned.mp3" style="width:240px;" %} |
+4A | {% include audio_player.html filename="audio/uncond/0_unconditioned.mp3" style="width:240px;" %} | 
+4B |{% include audio_player.html filename="audio/uncond/1_unconditioned.mp3" style="width:240px;" %} | 
+4C | {% include audio_player.html filename="audio/uncond/2_unconditioned.mp3" style="width:240px;" %} | 
+4D | {% include audio_player.html filename="audio/uncond/3_unconditioned.mp3" style="width:240px;" %} | 
+4E | {% include audio_player.html filename="audio/uncond/4_unconditioned.mp3" style="width:240px;" %} |
 
 </div>
 

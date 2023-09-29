@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
 title: Leverage Large Language Model on Conditional Music Generation
-description: AI Music Workshop
+description:
 show_downloads: false
 icons:
   homepage: fa-solid fa-globe-asia
