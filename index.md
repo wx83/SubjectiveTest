@@ -20,20 +20,16 @@ University of California San Diego\\
 salu133445.github.io\\
 
 ## Link to the questionnaire
-https://docs.google.com/forms/d/e/1FAIpQLScyVnDFJVgTz6t_vIp8bZqxT8QgmaoVGs_iHY5owBlQAvNoFw/viewform?usp=sf_link
+<https://docs.google.com/forms/d/e/1FAIpQLScyVnDFJVgTz6t_vIp8bZqxT8QgmaoVGs_iHY5owBlQAvNoFw/viewform?usp=sf_link>
 
 ## Contact
 Weihan Xu: wx83@duke.edu
 ## Content
 
-1. Music Generation Conditioned on "Genre"
-2. Music Generation Conditioned on "Program"
-3. Music Generation Conditioned on "Genre" and "Program"
-4. Unconditioned Generation
+There are four sections in this survey. Each section has five songs.
 
-### Genre-informed generation samples 
+### Section 1
 
-> __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-tags' marker. The 'start-of-tags' marker is followed by genre tags that describe the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
 <div class="table-wrapper" markdown="block">
 
 1A | __Ensemble__: classical | {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} |
@@ -46,9 +42,9 @@ Weihan Xu: wx83@duke.edu
 
 </div>
 
-### Program-informed generation samples
+### Section 2
 
-> __Settings__: The model is provided with a structured music data format, starting with a 'start-of-song' event, followed by a 'start-of-program' marker. The 'start-of-program' marker is followed by programs that are used in the music. Finally, the 'start-of-notes' marker indicates the commencement of a sequence of instrument codes, representing musical notes and instrument selections
+
 
 <div class="table-wrapper" markdown="block">
 
@@ -60,9 +56,8 @@ Weihan Xu: wx83@duke.edu
 
 </div>
 
-### Program-genre-informed generation samples
+### Section 3
 
-> __Settings__: In this context, there exist five distinctive data event types: 'start-of-song,' 'start-of-program,' 'start-of-tags,' 'start-of-notes,' and 'end-of-song.' The 'start-of-program' event serves as an indicator for the initiation of a program list, while the 'start-of-tags' event marks the commencement of a tag list. Meanwhile, the 'start-of-notes' event signifies the outset of a sequence of music notes.
 
 <div class="table-wrapper" markdown="block">
 
@@ -76,7 +71,7 @@ Weihan Xu: wx83@duke.edu
 
 ---
 
-## Unconditioned generation 
+### Sectiono 4 
 
 > __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
 
