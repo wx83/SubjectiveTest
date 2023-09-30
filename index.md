@@ -28,7 +28,7 @@ There are four sections in this survey. Each section has five songs.
 
 
 
-### Sectiono 1 
+### Section 1 
 
 <div class="table-wrapper" markdown="block">
 1A | {% include audio_player.html filename="audio/uncond/0_unconditioned.mp3" style="width:240px;" %} | 
