@@ -73,8 +73,6 @@ There are four sections in this survey. Each section has five songs.
 
 ### Sectiono 4 
 
-> __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
-
 <div class="table-wrapper" markdown="block">
 4A | {% include audio_player.html filename="audio/uncond/0_unconditioned.mp3" style="width:240px;" %} | 
 4B |{% include audio_player.html filename="audio/uncond/1_unconditioned.mp3" style="width:240px;" %} | 
