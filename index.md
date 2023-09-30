@@ -59,11 +59,11 @@ There are four sections in this survey. Each section has five songs.
 
 <div class="table-wrapper" markdown="block">
 
-3A | __Ensemble__: Program:Flute, Genre: classical | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
-3B | __Ensemble__: Program:piano, Genre: pop | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
-3C | __Ensemble__: Program:string, Genre: soundtrack | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
-3D | __Ensemble__: Program:piano,voice, Genre: classical | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
-3E | __Ensemble__: Program:piano, Genre: folk | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
+3A | __Ensemble__: __Program__:Flute, __Genre__: classical | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
+3B | __Ensemble__: __Program__:piano, __Genre__: pop | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
+3C | __Ensemble__: __Program__:string, __Genre__: soundtrack | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
+3D | __Ensemble__: __Program__:piano,voice, __Genre__: classical | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
+3E | __Ensemble__: __Program__:piano, __Genre__: folk | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
 
 </div>
 
