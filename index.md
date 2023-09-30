@@ -1,5 +1,3 @@
-__Leverage Large Language Model on Conditional Music Generation__
-{:.center .larger}
 
 ## Introduction
 Pretraining on large-scale noisy data followed by fine-tuning on the target domain has proven highly successful in numerous tasks. In light of this, our objective is to construct a cutting-edge model for symbolic music by leveraging the extensive symbolic music dataset available from the MuseScore forum.
