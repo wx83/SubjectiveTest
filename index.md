@@ -46,9 +46,9 @@ There are four sections in this survey. Each section has five songs.
 <div class="table-wrapper" markdown="block">
 
 2A | __Genre__: classical | {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} |
-2B | __Genre__: classical | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
-2C | __Genre__: folk | {% include audio_player.html filename="audio/genre_cond/2_genre_conditioned.mp3" %} |
-2D | __Genre__: soundtrack| {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
+2B | __Genre__: religious music | {% include audio_player.html filename="audio/genre_cond/1_genre_conditioned.mp3" %} |
+2C | __Genre__: soundtrack | {% include audio_player.html filename="audio/genre_cond/2_genre_conditioned.mp3" %} |
+2D | __Genre__: folk | {% include audio_player.html filename="audio/genre_cond/3_genre_conditioned.mp3" %} |
 2E | __Genre__: worldmusic | {% include audio_player.html filename="audio/genre_cond/4_genre_conditioned.mp3" %} |
 
 
