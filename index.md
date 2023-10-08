@@ -76,8 +76,8 @@ There are four sections in this survey. Each section has five songs.
 
 4A | __Instrument__:Voice, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
 4B | __Instrument__:Classical String Guitar, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
-4C | __Instrument__:Piano, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
-4D | __Instrument__:Organ, Guitar, Lead, Pad, Strings, Drum __Genre__: Hip Hop | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
+4C | __Instrument__:Piano, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
+4D | __Instrument__:Organ, Guitar, Lead, Pad, Strings, Drum __Genre__: Hip Hop | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
 4E | __Instrument__:Vibraphone, Piano, Flute, String-guitar, __Genre__: Pop | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
 
 </div>
