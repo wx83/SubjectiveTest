@@ -63,7 +63,7 @@ There are four sections in this survey. Each section has five songs.
 
 3A | __Instrument__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
 3B | __Instrument__: voices, piano| {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
-3C | __Instrument__: piano, trumpet, harmonica, guitar, bass and violin| {% include audio_player.html filename="audio/program_cond/1_instrument_conditioned.mp3" %} |
+3C | __Instrument__: piano, trumpet, harmonica, guitar, bass and violin| {% include audio_player.html filename="audio/program_cond/47_unconditioned.mp3" %} |
 3D | __Instrument__: recorder | {% include audio_player.html filename="audio/program_cond/4_instrument_conditioned.mp3" %} |
 3E | __Instrument__: church-organ, trombone, tuba, horn | {% include audio_player.html filename="audio/program_cond/3_instrument_conditioned.mp3" %} |
 
