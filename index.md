@@ -13,6 +13,8 @@ Pretraining on large-scale noisy data followed by fine-tuning on the target doma
 5. Examples in Music Generation Conditioned on "Instrument"
 6. Examples in Music Generation Conditioned on "Genre" and "Instrument"
 
+
+---
 ### Summary of the Compared Models:
 The resolution we set is 12. The max sequence length is 1024. 
 <div class="table-wrapper" markdown="block">
@@ -34,24 +36,24 @@ The resolution we set is 12. The max sequence length is 1024.
 <div class="table-wrapper" markdown="block">
 
 #### Unconditioned Generation
-__Single Track:__ |{% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+|__Single Track:__ |{% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__ |{% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+|__MultiTrack:__ |{% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre Conditioned Generation
-__Single Track:__  | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+|__Single Track:__  | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
- __MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Instrument Conditioned Generation
-__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+|__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre-Instrument Conditioned Generation
-__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+|__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 </div>
 
