@@ -97,13 +97,9 @@ __2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_p
 <div class="table-wrapper" markdown="block">
 
 | __Instrument__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} |
-
 | __Instrument__: voices, piano| {% include audio_player.html filename="audio/program_cond/2_instrument_conditioned.mp3" %} |
-
 | __Instrument__: piano, trumpet, harmonica, guitar, bass and violin| {% include audio_player.html filename="audio/program_cond/47_unconditioned.mp3" %} |
-
 | __Instrument__: recorder | {% include audio_player.html filename="audio/program_cond/4_instrument_conditioned.mp3" %} |
-
 | __Instrument__: church-organ, trombone, tuba, horn | {% include audio_player.html filename="audio/program_cond/10_unconditioned.mp3" %} |
 
 </div>
@@ -117,11 +113,11 @@ __2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_p
 
 <div class="table-wrapper" markdown="block">
 
-4A | __Instrument__:Voice, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
-4B | __Instrument__:Classical String Guitar, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
-4C | __Instrument__:Piano, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
-4D | __Instrument__:Organ, Guitar, Lead, Pad, Strings, Drum __Genre__: Hip Hop | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
-4E | __Instrument__:Vibraphone, Piano, Flute, String-guitar, __Genre__: Pop | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
+| __Instrument__:Voice, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} |
+| __Instrument__:Classical String Guitar, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/1_both_conditioned.mp3" %} |
+| __Instrument__:Piano, __Genre__: Classical | {% include audio_player.html filename="audio/genre_program_cond/3_both_conditioned.mp3" %} |
+| __Instrument__:Organ, Guitar, Lead, Pad, Strings, Drum __Genre__: Hip Hop | {% include audio_player.html filename="audio/genre_program_cond/2_both_conditioned.mp3" %} |
+| __Instrument__:Vibraphone, Piano, Flute, String-guitar, __Genre__: Pop | {% include audio_player.html filename="audio/genre_program_cond/4_both_conditioned.mp3" %} |
 
 </div>
 
