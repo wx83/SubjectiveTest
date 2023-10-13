@@ -42,13 +42,13 @@ __2. MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best
 
 ### Genre Conditioned Generation
 
-__1. Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond_best/genre_singletrack.mp3" %} 
-__2. MultiTrack:__ __Genre__: soundtrack  {% include audio_player.html filename="audio/genre_cond_best/genre_multitrack.mp3" %} 
+__1. Single Track:__ __Genre__: Classical  {% include audio_player.html filename="audio/genre_cond_best/genre_singletrack.mp3" %} 
+__2. MultiTrack:__ __Genre__: Soundtrack  {% include audio_player.html filename="audio/genre_cond_best/genre_multitrack.mp3" %} 
 
 ### Instrument Conditioned Generation
 
-__1. Single Track:__  __Instrument__: piano {% include audio_player.html filename="audio/program_best/program_singletrack.mp3" %} 
-__2. MultiTrack:__ __Instrument__: piano, flute {% include audio_player.html filename="audio/program_best/program_multitrack.mp3" %} 
+__1. Single Track:__  __Instrument__: Piano {% include audio_player.html filename="audio/program_best/program_singletrack.mp3" %} 
+__2. MultiTrack:__ __Instrument__: Piano, Flute {% include audio_player.html filename="audio/program_best/program_multitrack.mp3" %} 
 
 ### Genre-Instrument Conditioned Generation
 
