@@ -23,6 +23,7 @@ The resolution we set is 12. The max sequence length is 1024.
 | Genre Conditioned | __✓__  | ✕ | 87.18K | 158K |
 | Instrument Conditioned | ✕ | __✓__ | 87.27K | 739K |
 | Genre-Instrument Conditioned | __✓__ | __✓__ | 87.28K  | 158K |
+
 </div>
 
 
@@ -34,32 +35,32 @@ The resolution we set is 12. The max sequence length is 1024.
 <div class="table-wrapper" markdown="block">
 
 #### Unconditioned Generation
-__Single Track:__ 
+__Single Track:__ \\
 {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
-__MultiTrack:__
+__MultiTrack:__\\
 {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre Conditioned Generation
-__Single Track:__
+__Single Track:__ \\
 | __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__
+__MultiTrack:__\\
 | __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Instrument Conditioned Generation
 
-__Single Track:__ 
+__Single Track:__ \\
 | __Instrument:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__
+__MultiTrack:__\\
 | __Instrument:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre-Instrument Conditioned Generation
 
-__Single Track:__
+__Single Track:__\\
 | __Instrument:__, __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-__MultiTrack:__ 
+__MultiTrack:__ \\
 | __Instrument:__, __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 </div>
