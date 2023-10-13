@@ -35,32 +35,22 @@ The resolution we set is 12. The max sequence length is 1024.
 <div class="table-wrapper" markdown="block">
 
 #### Unconditioned Generation
-__Single Track:__ \\
+__Single Track:__ {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} 
 
-{% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} 
-
-__MultiTrack:__ \\
-
-{% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} 
+__MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} 
 
 #### Genre Conditioned Generation
-__Single Track:__ \\
-__Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
-__MultiTrack:__\\
-__Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
+__Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
+__MultiTrack:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
 #### Instrument Conditioned Generation
 
-__Single Track:__ \\
-__Instrument__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
-__MultiTrack:__\\
-__Instrument__: piano, flute, cello | {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
+__Single Track:__  __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
+__MultiTrack:__ __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
 #### Genre-Instrument Conditioned Generation
 
-__Single Track:__\\
-__Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+__Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
 
-__MultiTrack:__ \\
-__Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+__MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
 
 </div>
 
