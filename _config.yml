@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
-title: Listening Test for Music Generation
-description: Listening Test for Music Generation
+title: Equipping Pretrained Unconditional Music Transformers with Instrument and Genre Control
+description: Demo Page
 show_downloads: false
 icons:
   homepage: fa-solid fa-globe-asia
