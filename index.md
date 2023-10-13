@@ -4,7 +4,7 @@ Pretraining on large-scale noisy data followed by fine-tuning on the target doma
 
 ## Content
 
-1. Summary of the compared models
+1. Model Summary
 2. Best examples
 3. Examples in Unconditioned Generation
 4. Examples in Music Generation Conditioned on "Genre"
@@ -13,7 +13,7 @@ Pretraining on large-scale noisy data followed by fine-tuning on the target doma
 
 
 ---
-### Summary of the Compared Models:
+### Model Summary:
 The resolution we set is 12. The max sequence length is 1024. 
 <div class="table-wrapper" markdown="block">
 
@@ -34,24 +34,33 @@ The resolution we set is 12. The max sequence length is 1024.
 <div class="table-wrapper" markdown="block">
 
 #### Unconditioned Generation
-|__Single Track:__ |{% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
-
-|__MultiTrack:__ |{% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+__Single Track:__ 
+{% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+__MultiTrack:__
+{% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre Conditioned Generation
-|__Single Track:__  | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+__Single Track:__
+| __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+__MultiTrack:__
+| __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Instrument Conditioned Generation
-|__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+__Single Track:__ 
+| __Instrument:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+
+__MultiTrack:__
+| __Instrument:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 #### Genre-Instrument Conditioned Generation
-|__Single Track:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
 
-|__MultiTrack:__ | __Ensemble:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
+__Single Track:__
+| __Instrument:__, __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} |
+
+__MultiTrack:__ 
+| __Instrument:__, __Genre:__ | {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} |
 
 </div>
 
@@ -61,7 +70,7 @@ The resolution we set is 12. The max sequence length is 1024.
 > __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
 <div class="table-wrapper" markdown="block">
 
-|{% include audio_player.html filename="audio/uncond/0_new_unconditioned.mp3" style="width:240px;" %} | 
+| {% include audio_player.html filename="audio/uncond/0_new_unconditioned.mp3" style="width:240px;" %} | 
 | {% include audio_player.html filename="audio/uncond/1_new_unconditioned.mp3" style="width:240px;" %} | 
 | {% include audio_player.html filename="audio/uncond/2_unconditioned.mp3" style="width:240px;" %} | 
 | {% include audio_player.html filename="audio/uncond/3_unconditioned.mp3" style="width:240px;" %} | 
