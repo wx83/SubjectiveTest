@@ -1,5 +1,3 @@
-__Equipping Pretrained Unconditional Music Transformers with Instrument and Genre Controlsn__
-{:.center .larger}
 
 ## Introduction
 Pretraining on large-scale noisy data followed by fine-tuning on the target domain has proven highly successful in numerous tasks. In light of this, our objective is to construct a cutting-edge large language model for symbolic music by leveraging the extensive symbolic music dataset available from the MuseScore forum.
