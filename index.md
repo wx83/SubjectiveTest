@@ -25,6 +25,8 @@ The resolution we set is 12. The max sequence length is 1024.
 | Genre-Instrument Conditioned | __✓__ | __✓__ | 87.28K  | 158K |
 </div>
 
+
+
 ---
 ### Best Examples 
 
