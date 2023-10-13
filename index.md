@@ -36,25 +36,25 @@ The resolution we set is 12. The max sequence length is 1024.
 
 ### Unconditioned Generation
 
-__1. Single Track:__ {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} 
+__1. Single Track:__ {% include audio_player.html filename="audio/uncondition_best/uncond_singletrack.mp3" %} 
 
-__2. MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} 
+__2. MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best/uncond_multitrack.mp3" %} 
 
 ### Genre Conditioned Generation
 
-__1. Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
-__2. MultiTrack:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
+__1. Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond_best/genre_singletrack.mp3" %} 
+__2. MultiTrack:__ __Genre__: soundtrack  {% include audio_player.html filename="audio/genre_cond_best/genre_multitrack.mp3" %} 
 
 ### Instrument Conditioned Generation
 
-__1. Single Track:__  __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
-__2. MultiTrack:__ __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
+__1. Single Track:__  __Instrument__: piano {% include audio_player.html filename="audio/program_best/program_singletrack.mp3" %} 
+__2. MultiTrack:__ __Instrument__: piano, flute {% include audio_player.html filename="audio/program_best/program_multitrack.mp3" %} 
 
 ### Genre-Instrument Conditioned Generation
 
-__1. Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+__1. Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_best/g_p_singletrack.mp3" %} 
 
-__2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+__2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_best/g_p_multitrack.mp3" %} 
 
 </div>
 
