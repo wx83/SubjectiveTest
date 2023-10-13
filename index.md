@@ -1,8 +1,8 @@
 
-## Introduction
+# Introduction
 Pretraining on large-scale noisy data followed by fine-tuning on the target domain has proven highly successful in numerous tasks. In light of this, our objective is to construct a cutting-edge large language model for symbolic music by leveraging the extensive symbolic music dataset available from the MuseScore forum.
 
-## Content
+# Content
 
 1. Model Summary
 2. Best examples
@@ -13,7 +13,7 @@ Pretraining on large-scale noisy data followed by fine-tuning on the target doma
 
 
 ---
-### Model Summary:
+## Model Summary:
 The resolution we set is 12. The max sequence length is 1024. 
 <div class="table-wrapper" markdown="block">
 
@@ -34,23 +34,27 @@ The resolution we set is 12. The max sequence length is 1024.
 > Here we introduce some great examples generated in our model. We are giving one single-track example and one multi-track example for each condition
 <div class="table-wrapper" markdown="block">
 
-#### Unconditioned Generation
-__Single Track:__ {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} 
+### Unconditioned Generation
 
-__MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} 
+__1. Single Track:__ {% include audio_player.html filename="audio/uncondition_best/0_unconditioned.mp3" %} 
 
-#### Genre Conditioned Generation
-__Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
-__MultiTrack:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
-#### Instrument Conditioned Generation
+__2. MultiTrack:__ {% include audio_player.html filename="audio/uncondition_best/1_unconditioned.mp3" %} 
 
-__Single Track:__  __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
-__MultiTrack:__ __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
-#### Genre-Instrument Conditioned Generation
+### Genre Conditioned Generation
 
-__Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+__1. Single Track:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
+__2. MultiTrack:__ __Genre__: classical  {% include audio_player.html filename="audio/genre_cond/0_genre_conditioned.mp3" %} 
 
-__MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+### Instrument Conditioned Generation
+
+__1. Single Track:__  __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
+__2. MultiTrack:__ __Instrument__: piano, flute, cello {% include audio_player.html filename="audio/program_cond/0_instrument_conditioned.mp3" %} 
+
+### Genre-Instrument Conditioned Generation
+
+__1. Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
+
+__2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_cond/0_both_conditioned.mp3" %} 
 
 </div>
 
