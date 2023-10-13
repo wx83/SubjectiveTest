@@ -52,9 +52,9 @@ __2. MultiTrack:__ __Instrument__: piano, flute {% include audio_player.html fil
 
 ### Genre-Instrument Conditioned Generation
 
-__1. Single Track:__ __Instrument__:Voice, __Genre__: Classical  {% include audio_player.html filename="audio/genre_program_best/g_p_singletrack.mp3" %} 
+__1. Single Track:__ __Instrument__: Violin, __Genre__: Folk  {% include audio_player.html filename="audio/genre_program_best/g_p_singletrack.mp3" %} 
 
-__2. MultiTrack:__ __Instrument__:Voice, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_best/g_p_multitrack.mp3" %} 
+__2. MultiTrack:__ __Instrument__: Harpsichord, Flute, __Genre__: Classical {% include audio_player.html filename="audio/genre_program_best/g_p_multitrack.mp3" %} 
 
 </div>
 
