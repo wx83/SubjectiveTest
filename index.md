@@ -31,7 +31,8 @@ The resolution we set is 12. The max sequence length is 1024.
 ---
 ## Best Examples 
 
-> Here we introduce some great examples generated in our model. We are giving one single-track example and one multi-track example for each condition
+> Here we introduce some great examples generated in our model. We are giving one single-track example and one multi-track example for each condition.
+
 <div class="table-wrapper" markdown="block">
 
 ### Unconditioned Generation
@@ -63,7 +64,7 @@ __2. MultiTrack:__ __Instrument__: Harpsichord, Flute, __Genre__: Classical {% i
 
 ### Unconditioned Generation
 
-> __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence.
+> __Settings__: Only a `start-of-song' event is provided to the model. The model generates the instrument list and subsequently the note sequence and end with "end-of-song".
 <div class="table-wrapper" markdown="block">
 
 | {% include audio_player.html filename="audio/uncond/0_new_unconditioned.mp3" style="width:240px;" %} | 
