@@ -49,6 +49,6 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
 
 
 <video width="640" height="360" controls>
-  <source src="/home/weihanx/videogpt/MUSICAI/versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+  <source src="https://github.com/wx83/TeaserDemo/versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
