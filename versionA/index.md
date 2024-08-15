@@ -45,10 +45,390 @@ II: LLM-Generated Narration:
 In the heart of Vittenberg, a city transformed into a beacon of arts and sciences under Elector Frederick the Wise, the Kronach family workshop thrived. Scholars have long been captivated by a 1537 altarpiece in Mazzabog Cathedral, using infrared technology to unravel whether it was the work of Khanak the Elder, the Younger, or a mere assistant. Lucas Kronach the Elder, a court painter for the Saxon dynasty, earned fame and fortune, depicting the ruling family and supervising grand tournaments. His innovative style, distinct from the Italian Renaissance, left an indelible mark on art history. Professor Gunah Haydnerich's Kronach Digital Archive delves into the rivalry between Albrecht Dürer and Lucas Kronach the Elder, shedding light on Kronach's mysterious early life and his friendship with Martin Luther. Luther's 1517 protests against the Catholic Church ignited the Reformation, deeply influencing Vittenberg and inspiring Kronach to integrate Reformation figures into his art. The Kronach workshop, a bustling hub of creativity, produced art for nobility, churchmen, and the burgeoning bourgeoisie, utilizing advanced printing techniques. At the European Fine Arts Fair in Maastricht, art dealer Konrad O. Bernheimer highlights the challenge of distinguishing the master's hand from his workshop's, with works like "Nymph of the Spring" fetching high prices. In 2004, a fire ravaged a library, but director Mishayar Knochah heroically saved a rare 1534 Luther Bible, adorned with unparalleled illustrations by the Kronach workshop. Lucas Kronach the Younger, who inherited the workshop, continued the family legacy with his precise draftsman skills and portrait painting until his death in 1586. How did the unique artistic style and innovative techniques developed by Lucas Cranach the Elder and his workshop reflect and influence the cultural and religious transformations occurring in Vittenberg during the Reformation?
 
 # Section 6:
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
-
-
-<video width="640" height="360" controls>
-  <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+## Ground Truth
+<video width="320" height="240" controls>
+  <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/intro.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
+
+# Section 7:
+## Ground Truth
+<video width="320" height="240" controls>
+  <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
+
+
+# Section 8:
+## Ground Truth
+<video width="320" height="240" controls>
+  <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
+
+
+# Section 9:
+## Ground Truth
+<video width="320" height="240" controls>
+  <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
+
+
+
+# Section 10:
+## Ground Truth
+<video width="320" height="240" controls>
+  <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
