@@ -46,3 +46,9 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
 
 # Section 6:
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
+
+<video width="640" height="360" controls>
+  <source src="versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
