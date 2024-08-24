@@ -59,89 +59,6 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/GT/intro.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <br><strong>Ground Truth</strong>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_ft/demo_ft_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_random/demo_random_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_tf/demo_tf_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/demo_title/demo_title_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Demo I</strong></td>
-    <td style="text-align: center;"><strong>Demo II</strong></td>
-    <td style="text-align: center;"><strong>Demo III</strong></td>
-    <td style="text-align: center;"><strong>Demo IV</strong></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_ft/gpt_ft_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_random/gpt_random_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_tf/gpt_tf_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_title/gpt_title_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
-  </tr>
-</table>
-
-# Section 7:
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/GT/intro.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -150,29 +67,29 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/FFJb0M-cur0/demo_ft/demo_ft_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_random/demo_random_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/FFJb0M-cur0/demo_random/demo_random_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/FFJb0M-cur0/demo_tf/demo_tf_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/demo_title/demo_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/FFJb0M-cur0/demo_title/demo_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -183,7 +100,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     <td style="text-align: center;"><strong>Demo III</strong></td>
     <td style="text-align: center;"><strong>Demo IV</strong></td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -220,8 +137,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   </tr>
 </table>
 
-
-# Section 8:
+# Section 7:
 <table>
   <tr>
     <td style="text-align: center;">
@@ -234,29 +150,29 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/HTdrfsG2ikA/demo_ft/demo_ft_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_random/demo_random_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/HTdrfsG2ikA/demo_random/demo_random_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/HTdrfsG2ikA/demo_tf/demo_tf_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/ATvKJ_HftNs/demo_title/demo_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/HTdrfsG2ikA/demo_title/demo_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -267,7 +183,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     <td style="text-align: center;"><strong>Demo III</strong></td>
     <td style="text-align: center;"><strong>Demo IV</strong></td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -305,6 +221,90 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
 </table>
 
 
+# Section 8:
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/FG1hCPijyj4/GT/intro.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <br><strong>Ground Truth</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- <table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionB/khyuH_QfoWU/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionB/khyuH_QfoWU/demo_random/demo_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionB/khyuH_QfoWU/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionB/khyuH_QfoWU/demo_title/demo_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo I</strong></td>
+    <td style="text-align: center;"><strong>Demo II</strong></td>
+    <td style="text-align: center;"><strong>Demo III</strong></td>
+    <td style="text-align: center;"><strong>Demo IV</strong></td>
+  </tr>
+</table> -->
+
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/FG1hCPijyj4/gpt_ft/gpt_ft_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/FG1hCPijyj4/gpt_random/gpt_random_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/FG1hCPijyj4/gpt_tf/gpt_tf_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/TeaserDemo/versionA/FG1hCPijyj4/gpt_title/gpt_title_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo V</strong></td>
+    <td style="text-align: center;"><strong>Demo VI</strong></td>
+    <td style="text-align: center;"><strong>Demo VII</strong></td>
+    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+  </tr>
+</table>
+
+
 # Section 9:
 <table>
   <tr>
@@ -317,30 +317,30 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     </td>
   </tr>
 </table>
-
+<!-- 
 <table>
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/NsRj-9Y4fZ8/demo_ft/demo_ft_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_random/demo_random_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/NsRj-9Y4fZ8/demo_random/demo_random_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/NsRj-9Y4fZ8/demo_tf/demo_tf_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/demo_title/demo_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/NsRj-9Y4fZ8/demo_title/demo_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -351,7 +351,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     <td style="text-align: center;"><strong>Demo III</strong></td>
     <td style="text-align: center;"><strong>Demo IV</strong></td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -395,7 +395,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/GT/intro.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/zIGbglprvGo/GT/intro.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <br><strong>Ground Truth</strong>
@@ -403,29 +403,29 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_ft/demo_ft_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/OhM-Aeyqp6c/demo_ft/demo_ft_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_random/demo_random_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/OhM-Aeyqp6c/demo_random/demo_random_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_tf/demo_tf_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/OhM-Aeyqp6c/demo_tf/demo_tf_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/demo_title/demo_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionB/OhM-Aeyqp6c/demo_title/demo_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -436,31 +436,31 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     <td style="text-align: center;"><strong>Demo III</strong></td>
     <td style="text-align: center;"><strong>Demo IV</strong></td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/gpt_ft/gpt_ft_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/zIGbglprvGo/gpt_ft/gpt_ft_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/gpt_random/gpt_random_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/zIGbglprvGo/gpt_random/gpt_random_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/gpt_tf/gpt_tf_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/zIGbglprvGo/gpt_tf/gpt_tf_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/Kd8kxPa7SFM/gpt_title/gpt_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/zIGbglprvGo/gpt_title/gpt_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
