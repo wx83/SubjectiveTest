@@ -375,7 +375,7 @@ In the heart of Vittenberg, a city transformed into a beacon of arts and science
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/gpt_title/gpt_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/j1Pb8YU8wQo/gpt_title/gpt_title_new_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
