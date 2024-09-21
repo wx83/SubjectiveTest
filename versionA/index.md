@@ -77,70 +77,77 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_transformer_beamsearch/gpt_transformer_beamsearch_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_beamsearch/gpt_transformer_beamsearch_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_transformer_beamsearch_dp/gpt_transformer_beamsearch_dp_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_beamsearch_dp/gpt_transformer_beamsearch_dp_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_transformer_nn_smooth_dp/gpt_transformer_nn_smooth_dp_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_nn_smooth_dp/gpt_transformer_nn_smooth_dp_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/gpt_univtg_title_threshold/gpt_univtg_title_threshold_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_univtg_title_threshold/gpt_univtg_title_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/ori_univtg_rank/ori_univtg_rankdemo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/ori_univtg_rank/ori_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/89xTTczbv0E/ori_univtg_title/ori_univtg_title_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/ori_univtg_title/ori_univtg_title_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -215,7 +222,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/4xgPBb1xHYI/ori_univtg_rank/ori_univtg_rankdemo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/4xgPBb1xHYI/ori_univtg_rank/ori_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -227,10 +234,17 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -306,7 +320,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/kRpPu6OoP00/ori_univtg_rank/ori_univtg_rankdemo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/kRpPu6OoP00/ori_univtg_rank/ori_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -318,10 +332,17 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -397,7 +418,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/o4ah2I8YjkQ/ori_univtg_rank/ori_univtg_rankdemo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/o4ah2I8YjkQ/ori_univtg_rank/ori_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -409,10 +430,17 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -487,7 +515,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/vbl7QeqfE-Q/ori_univtg_rank/ori_univtg_rankdemo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/TeaserDemo/versionA/vbl7QeqfE-Q/ori_univtg_rank/ori_univtg_rank_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -499,9 +527,16 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
