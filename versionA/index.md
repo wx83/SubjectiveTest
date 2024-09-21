@@ -54,7 +54,7 @@ II: LLM-Generated Narration:
 Deepwater Horizon, a high-tech drilling rig rented by oil companies for challenging operations, faced a critical situation when mud started leaking, triggering a series of alarms and escalating tension among the crew. A sudden and catastrophic engine failure caused multiple explosions, leaving the narrator injured and struggling to escape a dark, debris-filled environment while issuing a Mayday call. Struggling to navigate through the demolished rig, the narrator assumed a non-responsive person was dead, narrowly avoided falling into the water, and ultimately decided against launching a lifeboat alone, remembering their emergency responsibilities. Amidst the chaos of an oil rig explosion, the narrator, a fire team member, navigated through panic and destruction to reach the bridge, ultimately joining a helicopter rescue mission and witnessing the immense glow of the disaster from the sky. Amidst a chaotic and fiery situation on a powerless ship, the crew struggled to assist an injured colleague, attempted to activate emergency systems, and ultimately decided to abandon ship while facing numerous technical failures and life-threatening conditions. Amidst the chaos and panic of abandoning a rig due to explosions and intense heat, the crew managed to deploy lifeboats and life rafts, ensuring that no one, including a stretcher-bound individual, was left behind. Amidst the chaos and intense heat following the explosion of the Deepwater Horizon rig, the narrator and others frantically evacuated by life raft, swimming away from the inferno and witnessing others making desperate jumps to escape the flames. After being covered in burning sludge and thinking he had died, the narrator was rescued by a small orange craft, joined efforts to save others near a burning rig, and witnessed the intense heat and chaos as rescue operations continued. A rescue operation following a catastrophic explosion on an oil rig in the Gulf of Mexico involved evacuating a critically injured worker amidst chaotic conditions, while the Coast Guard continued searching for 11 missing individuals as the fire raged on. A pair of Coast Guard cutters and a helicopter conducted an overnight search for missing workers from an oil rig explosion, leading to a poignant reunion with families and a somber realization of the extensive damage and loss of life, as 11 workers were confirmed dead and unrecovered. How did the crew's emergency training and protocols influence their actions and decisions during the catastrophic events on the Deepwater Horizon rig, and what does this reveal about the effectiveness of such preparations in real-life crisis situations?
 
 # Section 6:
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
@@ -65,7 +65,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
 </table>
-
+ -->
 
 <table>
   <tr>
@@ -93,6 +93,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
@@ -117,6 +119,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
@@ -137,22 +141,26 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-        <td style="text-align: center;"><strong>Demo 1</strong></td>
-        <td style="text-align: center;"><strong>Demo 2</strong></td>
-        <td style="text-align: center;"><strong>Demo 3</strong></td>
-        <td style="text-align: center;"><strong>Demo 4</strong></td>
-        <td style="text-align: center;"><strong>Demo 5</strong></td>
-        <td style="text-align: center;"><strong>Demo 6</strong></td>
-        <td style="text-align: center;"><strong>Demo 7</strong></td>
-        <td style="text-align: center;"><strong>Demo 8</strong></td>
-        <td style="text-align: center;"><strong>Demo 9</strong></td>
-        <td style="text-align: center;"><strong>Demo 10</strong></td>
-        <td style="text-align: center;"><strong>Demo 11</strong></td>
+    <td style="text-align: center;"><strong>Demo 1</strong></td>
+    <td style="text-align: center;"><strong>Demo 2</strong></td>
+    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Demo 4</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 5</strong></td>
+    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 9</strong></td>
+    <td style="text-align: center;"><strong>Demo 10</strong></td>
+    <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
 # Section 7:
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
@@ -162,7 +170,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
       <br><strong>Ground Truth</strong>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -190,6 +198,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/4xgPBb1xHYI/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
@@ -214,6 +224,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/4xgPBb1xHYI/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
@@ -234,23 +246,28 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-        <td style="text-align: center;"><strong>Demo 1</strong></td>
-        <td style="text-align: center;"><strong>Demo 2</strong></td>
-        <td style="text-align: center;"><strong>Demo 3</strong></td>
-        <td style="text-align: center;"><strong>Demo 4</strong></td>
-        <td style="text-align: center;"><strong>Demo 5</strong></td>
-        <td style="text-align: center;"><strong>Demo 6</strong></td>
-        <td style="text-align: center;"><strong>Demo 7</strong></td>
-        <td style="text-align: center;"><strong>Demo 8</strong></td>
-        <td style="text-align: center;"><strong>Demo 9</strong></td>
-        <td style="text-align: center;"><strong>Demo 10</strong></td>
-        <td style="text-align: center;"><strong>Demo 11</strong></td>
+    <td style="text-align: center;"><strong>Demo 1</strong></td>
+    <td style="text-align: center;"><strong>Demo 2</strong></td>
+    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Demo 4</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 5</strong></td>
+    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 9</strong></td>
+    <td style="text-align: center;"><strong>Demo 10</strong></td>
+    <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
 
+
 # Section 8:
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
@@ -260,7 +277,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
       <br><strong>Ground Truth</strong>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -288,6 +305,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/kRpPu6OoP00/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
@@ -312,6 +331,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/kRpPu6OoP00/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
@@ -332,23 +353,28 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-        <td style="text-align: center;"><strong>Demo 1</strong></td>
-        <td style="text-align: center;"><strong>Demo 2</strong></td>
-        <td style="text-align: center;"><strong>Demo 3</strong></td>
-        <td style="text-align: center;"><strong>Demo 4</strong></td>
-        <td style="text-align: center;"><strong>Demo 5</strong></td>
-        <td style="text-align: center;"><strong>Demo 6</strong></td>
-        <td style="text-align: center;"><strong>Demo 7</strong></td>
-        <td style="text-align: center;"><strong>Demo 8</strong></td>
-        <td style="text-align: center;"><strong>Demo 9</strong></td>
-        <td style="text-align: center;"><strong>Demo 10</strong></td>
-        <td style="text-align: center;"><strong>Demo 11</strong></td>
+    <td style="text-align: center;"><strong>Demo 1</strong></td>
+    <td style="text-align: center;"><strong>Demo 2</strong></td>
+    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Demo 4</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 5</strong></td>
+    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 9</strong></td>
+    <td style="text-align: center;"><strong>Demo 10</strong></td>
+    <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
 
+
 # Section 9:
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
@@ -358,7 +384,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
       <br><strong>Ground Truth</strong>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -386,6 +412,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/o4ah2I8YjkQ/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
@@ -410,6 +438,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/o4ah2I8YjkQ/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
@@ -430,22 +460,26 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-        <td style="text-align: center;"><strong>Demo 1</strong></td>
-        <td style="text-align: center;"><strong>Demo 2</strong></td>
-        <td style="text-align: center;"><strong>Demo 3</strong></td>
-        <td style="text-align: center;"><strong>Demo 4</strong></td>
-        <td style="text-align: center;"><strong>Demo 5</strong></td>
-        <td style="text-align: center;"><strong>Demo 6</strong></td>
-        <td style="text-align: center;"><strong>Demo 7</strong></td>
-        <td style="text-align: center;"><strong>Demo 8</strong></td>
-        <td style="text-align: center;"><strong>Demo 9</strong></td>
-        <td style="text-align: center;"><strong>Demo 10</strong></td>
-        <td style="text-align: center;"><strong>Demo 11</strong></td>
+    <td style="text-align: center;"><strong>Demo 1</strong></td>
+    <td style="text-align: center;"><strong>Demo 2</strong></td>
+    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Demo 4</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 5</strong></td>
+    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 9</strong></td>
+    <td style="text-align: center;"><strong>Demo 10</strong></td>
+    <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
 # Section 10:
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
@@ -455,7 +489,7 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
       <br><strong>Ground Truth</strong>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -483,6 +517,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/vbl7QeqfE-Q/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
@@ -507,6 +543,8 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/vbl7QeqfE-Q/ori_transformer_nn_smooth/ori_transformer_nn_smooth_demo.mp4" type="video/mp4">
@@ -527,16 +565,20 @@ Deepwater Horizon, a high-tech drilling rig rented by oil companies for challeng
     </td>
   </tr>
   <tr>
-        <td style="text-align: center;"><strong>Demo 1</strong></td>
-        <td style="text-align: center;"><strong>Demo 2</strong></td>
-        <td style="text-align: center;"><strong>Demo 3</strong></td>
-        <td style="text-align: center;"><strong>Demo 4</strong></td>
-        <td style="text-align: center;"><strong>Demo 5</strong></td>
-        <td style="text-align: center;"><strong>Demo 6</strong></td>
-        <td style="text-align: center;"><strong>Demo 7</strong></td>
-        <td style="text-align: center;"><strong>Demo 8</strong></td>
-        <td style="text-align: center;"><strong>Demo 9</strong></td>
-        <td style="text-align: center;"><strong>Demo 10</strong></td>
-        <td style="text-align: center;"><strong>Demo 11</strong></td>
+    <td style="text-align: center;"><strong>Demo 1</strong></td>
+    <td style="text-align: center;"><strong>Demo 2</strong></td>
+    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Demo 4</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 5</strong></td>
+    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Demo 9</strong></td>
+    <td style="text-align: center;"><strong>Demo 10</strong></td>
+    <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>

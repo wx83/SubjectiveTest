@@ -138,10 +138,17 @@ In the heart of the Chharia mines, 17-year-old Savitri Mato and 9-year-old Chhot
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -228,10 +235,17 @@ In the heart of the Chharia mines, 17-year-old Savitri Mato and 9-year-old Chhot
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -319,10 +333,17 @@ In the heart of the Chharia mines, 17-year-old Savitri Mato and 9-year-old Chhot
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
@@ -410,10 +431,17 @@ In the heart of the Chharia mines, 17-year-old Savitri Mato and 9-year-old Chhot
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo V</strong></td>
-    <td style="text-align: center;"><strong>Demo VI</strong></td>
-    <td style="text-align: center;"><strong>Demo VII</strong></td>
-    <td style="text-align: center;"><strong>Demo VIII</strong></td>
+        <td style="text-align: center;"><strong>Demo 1</strong></td>
+        <td style="text-align: center;"><strong>Demo 2</strong></td>
+        <td style="text-align: center;"><strong>Demo 3</strong></td>
+        <td style="text-align: center;"><strong>Demo 4</strong></td>
+        <td style="text-align: center;"><strong>Demo 5</strong></td>
+        <td style="text-align: center;"><strong>Demo 6</strong></td>
+        <td style="text-align: center;"><strong>Demo 7</strong></td>
+        <td style="text-align: center;"><strong>Demo 8</strong></td>
+        <td style="text-align: center;"><strong>Demo 9</strong></td>
+        <td style="text-align: center;"><strong>Demo 10</strong></td>
+        <td style="text-align: center;"><strong>Demo 11</strong></td>
   </tr>
 </table>
 
