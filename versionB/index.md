@@ -1,7 +1,7 @@
 # Introduction
 In this test, we are intersted in the performance of LLM generated script for teaser and the performance of our generated teaser.
 
-Note: Please select Version A on the first question of the survery. Thanks!
+Note: Please select Version B on the first question of the survery. Thanks!
 
 # Section 1:
 <table>
@@ -175,6 +175,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
     <td style="text-align: center;"><strong>Demo 3</strong></td>
     <td style="text-align: center;"><strong>Demo 4</strong></td>
   </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_clip_rank/gpt_clip_rank_demo.mp4" type="video/mp4">

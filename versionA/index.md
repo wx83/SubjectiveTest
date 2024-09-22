@@ -108,6 +108,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
 </table>
 
 # Section 3:
@@ -172,6 +173,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
     <td style="text-align: center;"><strong>Demo 3</strong></td>
     <td style="text-align: center;"><strong>Demo 4</strong></td>
   </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionA/o4ah2I8YjkQ/gpt_clip_rank/gpt_clip_rank_demo.mp4" type="video/mp4">
