@@ -110,7 +110,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
     </td>
 </table>
 
-
 # Section 3:
 <table>
   <tr>
