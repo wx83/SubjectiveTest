@@ -170,7 +170,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
 # Section 4:
 <table>
   <tr>
-  <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
     <td style="text-align: center;"><strong>Demo 2</strong></td>
     <td style="text-align: center;"><strong>Demo 3</strong></td>
