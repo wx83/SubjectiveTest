@@ -3,7 +3,8 @@ In this test, we are intersted in the performance of LLM generated script for te
 
 Note: Please select Version B on the first question of the survery. Thanks!
 
-# Section 1:
+# Section 1
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -57,7 +58,8 @@ Note: Please select Version B on the first question of the survery. Thanks!
   </tr>
 </table>
 
-# Section 2:
+# Section 2
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -111,7 +113,8 @@ Note: Please select Version B on the first question of the survery. Thanks!
   </tr>
 </table>
 
-# Section 3:
+# Section 3
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -167,7 +170,8 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 
-# Section 4:
+# Section 4
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -221,7 +225,8 @@ Note: Please select Version B on the first question of the survery. Thanks!
   </tr>
 </table>
 
-# Section 5:
+# Section 5
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -275,7 +280,8 @@ Note: Please select Version B on the first question of the survery. Thanks!
   </tr>
 </table>
 
-# Section 6:
+# Section 6
+
 <table>
   <tr>
     <td>
@@ -305,6 +311,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 </table>
 
 # Section 7
+
 <table>
   <tr>
     <td>
@@ -334,6 +341,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 </table>
 
 # Section 8
+
 <table>
   <tr>
     <td>
@@ -363,6 +371,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 </table>
 
 # Section 9
+
 <table>
   <tr>
     <td>
@@ -393,6 +402,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 # Section 10
+
 <table>
   <tr>
     <td>
@@ -423,7 +433,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 # Section 11
-<!-- videoname:-AndA2beJVc -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |Big Bend National Park, established in 1944 and spanning 800,000 acres, is a diverse sanctuary in Texas where a resilient Roadrunner mother tirelessly hunts to feed her ever-hungry chicks amidst the park's rich biodiversity. A female black bear in Big Bend National Park must teach her cubs to survive by finding water in the Chisos Mountains, a unique sky island oasis that stores rainwater year-round.|In the heart of Texas, Big Bend National Park, established in 1944 and spanning 800,000 acres, stands as a testament to nature's resilience and diversity. Here, a tireless Roadrunner mother hunts relentlessly to feed her ever-hungry chicks amidst the park's rich biodiversity. High in the Chisos Mountains, a female black bear teaches her cubs the art of survival, from finding water in this sky island oasis to scratching trees and leaving their scent.|
@@ -434,7 +444,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 # Section 12
-<!-- videoname: 89xTTczbv0E-->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |Archaeologists, led by Dr. Zbigniew Szybranski, are excavating and restoring the unique temple of the revolutionary female pharaoh Hetshepsood in Luxor, Egypt, to uncover more about her enigmatic reign and contributions, while other teams investigate her quarries to understand her extensive building projects. John and Maria are excavating an abandoned statue at one of Egypt's largest archaeological sites, while Martina Bartanova's team in Aswan discovers ancient human remains that could halt their exploration of an unopened tomb.|Under the scorching Egyptian sun, Dr. Zbigniew Szybranski led a team of archaeologists in Luxor, meticulously excavating the unique temple of the revolutionary female pharaoh Hetshepsood. The air buzzed with excitement as John and Maria unearthed a nearly 10-foot-tall abandoned sphinx statue at one of Egypt's largest archaeological sites. Meanwhile, in Aswan, Martina Bartanova's team stumbled upon ancient human remains that could halt their exploration of an unopened tomb.|
@@ -446,6 +456,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 # Section 13:
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |In the heart of a rapidly changing America, where the fear of demographic shifts loomed large, a young aspiring comedian found inspiration in the bold humor of Margaret Cho. This comedian's journey was marked by the painful sting of racism and the growing influence of Asian Americans, a community galvanized by the tragic murder of Vincent Chin in 1982. Vincent Chin's death, fueled by racial hatred and economic frustration, became a rallying cry for Asian American activism, with Mrs. Chin transforming her grief into a powerful movement for civil rights and justice. |The paragraph discusses the changing demographics in the U.S., the fear among white people about becoming a minority by 2042, the author's inspiration from Margaret Cho to pursue stand-up comedy, experiences of racism, the growing influence of Asian Americans, and the impact of Vincent Chin's murder on the Asian American community. The tragic murder of Vincent Chin in 1982, driven by racial hatred and economic frustration, became a pivotal moment for Asian American activism, highlighting ongoing discrimination and uniting diverse communities in the fight for civil rights and justice. |
@@ -455,7 +466,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 | How did the murder of Vincent Chin and the subsequent activism led by his mother, Mrs. Chin, influence the broader Asian American community's fight for civil rights and their sense of belonging in the United States?|Following the 9/11 attacks, there was a surge in hate crimes and discriminatory policies against brown-skinned individuals, Muslims, and Sikhs, leading to wrongful detentions and deportations, exemplified by the case of Ansar Mahmoud, who faced unjust scrutiny and deportation despite being cleared of any wrongdoing. The paragraph discusses the evolution of immigration issues in America, particularly post-9/11, highlighting the struggles and contributions of immigrants, especially Asian-Americans, and their journey from exclusion to recognition and inclusion in American society.|
 
 # Section 14:
-<!-- video_name: rslUfl6OsV4 -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |On November 20, 1998, a Russian rocket launched the first module of the International Space Station, marking the beginning of a collaborative space mission where the crew, including the first American and Russian to enter the station, celebrated their joint entry and documented the historic event in a logbook. The logbook entry highlights the collaborative spirit and shared dreams of the crew, leading to the development of the International Space Station through a partnership between Russia, the United States, and other international entities, combining Russian experience with American funding for peaceful economic and scientific advancements in space.|Anthony, dressed as an apostle, stepped into the bustling heart of Matera's Old Town, where ancient stone streets doubled as a film set for a movie about Jesus and the epicenter of a real-life protest. The rally, a vivid tableau of crushed tomatoes and impassioned voices, demanded fair working conditions and residency permits for African refugees. Local farmers, migrants, and tourists united in a powerful demonstration against exploitation, highlighting the plight of seasonal laborers in southern Italy, many of whom lived in camps and faced mafia extortion.|
@@ -467,7 +478,7 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 
 # Section 15:
-<!-- videoname:UzivaxYf1iM -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |Savitri Mato, a 17-year-old, and 9-year-old Chhotu scavenge coal in the Chharia mines in India, where they have become accustomed to the dangerous work that now requires manual labor due to a temporary halt in industrial mining. The narrator describes the dangers and legal challenges of scavenging for coal, emphasizing the constant fear of police intervention and the struggle to make a living without being labeled a thief. |In the heart of the Chharia mines, 17-year-old Savitri Mato and 9-year-old Chhotu navigate a world fraught with peril. The industrial hum has ceased, leaving the siblings to scavenge coal by hand, a dangerous task that has become their daily reality. The threat of police intervention looms over them, branding their struggle for survival as theft. Yet, driven by sheer determination, Savitri and Chhotu labor tirelessly, their small frames burdened with the weight of coal and urgency. |
