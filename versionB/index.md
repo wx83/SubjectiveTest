@@ -40,22 +40,8 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -108,16 +94,8 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -130,12 +108,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
         Your browser does not support the video tag.
       </video>
     </td>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
   </tr>
 </table>
 
@@ -177,22 +149,8 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -206,13 +164,11 @@ Note: Please select Version A on the first question of the survery. Thanks!
       </video>
     </td>
   </tr>
-
 </table>
 
 
 
 # Section 4:
-
 <table>
   <tr>
   <tr>
@@ -249,22 +205,8 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -317,8 +259,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
     <td>
@@ -327,18 +267,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
         Your browser does not support the video tag.
       </video>
     </td>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_univtg_title_threshold/gpt_univtg_title_threshold_demo.mp4" type="video/mp4">
@@ -346,10 +274,9 @@ Note: Please select Version A on the first question of the survery. Thanks!
       </video>
     </td>
   </tr>
-
 </table>
 
-## Section 6:
+# Section 6:
 <table>
   <tr>
     <td>
@@ -378,7 +305,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
   </tr>
 </table>
 
-## Section 7
+# Section 7
 <table>
   <tr>
     <td>
@@ -407,7 +334,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
   </tr>
 </table>
 
-## Section 8
+# Section 8
 <table>
   <tr>
     <td>
@@ -436,7 +363,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
   </tr>
 </table>
 
-## Section 9
+# Section 9
 <table>
   <tr>
     <td>
@@ -466,7 +393,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 
-## Section 10
+# Section 10
 <table>
   <tr>
     <td>
@@ -506,7 +433,7 @@ II: Narration 2:
 
 In the heart of Texas, Big Bend National Park, established in 1944 and spanning 800,000 acres, stands as a testament to nature's resilience and diversity. Here, a tireless Roadrunner mother hunts relentlessly to feed her ever-hungry chicks amidst the park's rich biodiversity. High in the Chisos Mountains, a female black bear teaches her cubs the art of survival, from finding water in this sky island oasis to scratching trees and leaving their scent. Meanwhile, the Texas Horned Lizard, a master of desert survival, hunts venomous harvester ants with precision and patience, navigating the extreme heat and drought conditions. Along the dwindling Rio Grande, a determined beaver constructs a dam to create an oasis, only to have it destroyed by a flash flood, yet she remains undeterred, planning to rebuild it even stronger. The arrival of the monsoon transforms the desert, revitalizing plant life and triggering the dramatic mating season of the once nearly extinct Big Horn Sheep. The rains are crucial for the survival of the park's flora and fauna, including the Texas horned lizard and bear cubs, who thrive briefly in the post-rain abundance. The agave plant, a vital resource for indigenous people and a key ingredient in tequila and mezcal, spends decades storing energy to produce a towering stalk and flowers that attract pollinators like the Mexican long-nosed bat. Big Bend National Park is a unique sanctuary where ancient ecological relationships coexist with modern human pursuits like astrophotography, and where diverse wildlife like beavers and bears adapt to the changing seasons. Since the 1980s, the park has seen a resurgence of its bear population, highlighting its importance as a protected haven for the entire ecosystem.
 
-## Section 12
+# Section 12
 <!-- videoname: 89xTTczbv0E-->
 I: Narration 1: 
 
@@ -518,7 +445,7 @@ II: Narration 2:
 Under the scorching Egyptian sun, Dr. Zbigniew Szybranski led a team of archaeologists in Luxor, meticulously excavating the unique temple of the revolutionary female pharaoh Hetshepsood. The air buzzed with excitement as John and Maria unearthed a nearly 10-foot-tall abandoned sphinx statue at one of Egypt's largest archaeological sites. Meanwhile, in Aswan, Martina Bartanova's team stumbled upon ancient human remains that could halt their exploration of an unopened tomb. The discovery of a child's remains and a miniature sphinx added layers of mystery to their quest. At Karnak Temple, John and Maria delved into inscriptions revealing Hetshepsood's portrayal as a male pharaoh, while Yale professors used digital technology to study ancient texts. In Dra'abu El Naga, another team meticulously organized fragmented human remains, uncovering stories of women in ancient Egyptian society. American archaeologist Susanne Onstein explored the monumental building campaigns of Hetshepsood, whose colossal obelisks stood as testaments to her reign. Amidst pottery fragments and evidence of temples built by Hetshepsood and her stepson Tutmose III, the archaeologists faced personal reflections and challenges. The winds of history whispered through the sands, as each discovery brought them closer to unraveling the enigmatic legacy of Pharaoh Queen Hetshepsood. How do the discoveries and restoration efforts at Hatshepsut's temple and other archaeological sites in Egypt contribute to our understanding of her reign and the broader role of women in ancient Egyptian society?
 
 
-## Section 13:
+# Section 13:
 <!-- videoname:BLoTRK7sPk8 -->
 I: Narration 1:
 
@@ -528,7 +455,7 @@ II: Narration 2:
 
 The paragraph discusses the changing demographics in the U.S., the fear among white people about becoming a minority by 2042, the author's inspiration from Margaret Cho to pursue stand-up comedy, experiences of racism, the growing influence of Asian Americans, and the impact of Vincent Chin's murder on the Asian American community. The tragic murder of Vincent Chin in 1982, driven by racial hatred and economic frustration, became a pivotal moment for Asian American activism, highlighting ongoing discrimination and uniting diverse communities in the fight for civil rights and justice. Mrs. Chin, a strong and outspoken leader, transformed her grief over her son's racially motivated murder into a movement that challenged civil rights laws and inspired Asian Americans to assert their belonging in the U.S., while the case's legacy continues to impact hate crime perceptions and Asian American activism. The paragraph describes the complex racial tensions and historical grievances in Los Angeles, particularly between African American and Korean American communities, which were exacerbated by incidents like the Rodney King beating and the killing of LaTasha Harlins, ultimately leading to the 1992 LA riots. The narrator recounts the traumatic impact of the 1992 Los Angeles riots on their Korean immigrant family, highlighting the violence, financial devastation, and the subsequent efforts for peace and justice within the community. The paragraph discusses the emergence of new Korean American leaders collaborating with African American leaders for justice and peace, the choices Asian Americans face regarding victimization and power, the significance of Asian American representation in media and literature, and the story of Jerry Yang, who co-founded Yahoo, transforming the way Americans engage with the internet. The paragraph recounts the experiences of a young reporter in Silicon Valley during the tech boom, highlighting the significant contributions and challenges faced by Asian immigrants, including the exploitation of piecework labor, the rise of Asian American entrepreneurs, and the personal struggles of undocumented immigrant families. The fear of separation and being undocumented led Teresa Lee to seek help from a music school director, who then involved Senator Dick Durbin, resulting in the creation of the Dream Act to provide a path to citizenship for undocumented minors, but its progress was halted by the 9/11 attacks. Following the 9/11 attacks, there was a surge in hate crimes and discriminatory policies against brown-skinned individuals, Muslims, and Sikhs, leading to wrongful detentions and deportations, exemplified by the case of Ansar Mahmoud, who faced unjust scrutiny and deportation despite being cleared of any wrongdoing. The paragraph discusses the evolution of immigration issues in America, particularly post-9/11, highlighting the struggles and contributions of immigrants, especially Asian-Americans, and their journey from exclusion to recognition and inclusion in American society.
 
-## Section 14:
+# Section 14:
 <!-- video_name: rslUfl6OsV4 -->
 I: Narration 1:
 
@@ -538,7 +465,7 @@ II: Narration 2:
 
 Anthony, dressed as an apostle, stepped into the bustling heart of Matera's Old Town, where ancient stone streets doubled as a film set for a movie about Jesus and the epicenter of a real-life protest. The rally, a vivid tableau of crushed tomatoes and impassioned voices, demanded fair working conditions and residency permits for African refugees. Local farmers, migrants, and tourists united in a powerful demonstration against exploitation, highlighting the plight of seasonal laborers in southern Italy, many of whom lived in camps and faced mafia extortion. Among the crowd, Anthony spotted Arve and Umbaya, refugees from Senegal who had found solace and support at Casa Sancara, a sanctuary offering better living conditions and opportunities compared to the ghetto. Casa Sancara, a beacon of hope, provided employment and legal aid, with volunteers assisting in daily tasks and notable activists like Ivonne Sanje leading rallies. Milo Raos, the film's director, aimed to inspire political change by focusing on Jesus' radical message of advocating for the oppressed. During a break from filming, Anthony explored Matera, discussing cultural differences between Africa and Europe with Alexander, a Ghanaian actor who had lived in Italy for 12 years. Alexander believed that living abroad offered his children a different perception of society and better educational opportunities, aligning with his broader mission of personal and familial growth. As Anthony reflected on his past, including his harrowing journey from Nigeria to Libya and the eight months he spent imprisoned there, he couldn't help but feel a mix of uncertainty and hope. The chaotic day marked by violence and escape, where security forces opened fire, resulting in many deaths, was a stark contrast to the film crew's preparation for scenes about the crucifixion of Jesus. Anthony's two weeks on set had been intense but enriching, exposing him to diverse cultures and perspectives. With the filming nearly complete and the resurrection scene pending in Rome, Anthony pondered his future, uncertain but determined to find his path beyond the ghetto. How does the intersection of Anthony's personal journey, the film's portrayal of Jesus' advocacy for the oppressed, and the real-life protest against the exploitation of African refugees in Matera highlight the broader issues of migration, labor rights, and cultural integration in contemporary Europe?
 
-## Section 15:
+# Section 15:
 <!-- videoname:UzivaxYf1iM -->
 I: Narration 1:
 
