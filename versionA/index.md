@@ -423,7 +423,6 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 
 # Section 11
-<!-- videoname:2n7xgho1gIo -->
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 | Growing up after World War II, the scarcity of Asian representation on screen led to excitement whenever an Asian character appeared, but these roles often perpetuated stereotypes, leaving Asian Americans feeling misrepresented and questioning their identity. |In the aftermath of World War II, Asian Americans grappled with a lack of representation and pervasive stereotypes, struggling to find their place in a conformist yet contradictory American society. The narrator recalls their grandmother, Mrs. Goon, the first Asian American honored as U.S. Mother of the Year in 1952, a symbol of the model minority and the American dream.|
