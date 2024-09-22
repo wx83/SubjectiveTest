@@ -40,11 +40,11 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td>
+    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -55,7 +55,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/-AndA2beJVc/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -108,16 +108,16 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td>
+    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -130,12 +130,12 @@ Note: Please select Version A on the first question of the survery. Thanks!
         Your browser does not support the video tag.
       </video>
     </td>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/89xTTczbv0E/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -177,11 +177,11 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td>
+    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -192,7 +192,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/BLoTRK7sPk8/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -249,11 +249,11 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td>
+    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -264,7 +264,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/rslUfl6OsV4/gpt_univtg_rank/gpt_univtg_rank_demo.mp4" type="video/mp4">
@@ -317,8 +317,8 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td style="text-align: center;"><strong>Demo 5</strong></td>
     <td style="text-align: center;"><strong>Demo 6</strong></td>
-    <td style="text-align: center;"><strong>Demo 7</strong></td>
-    <td style="text-align: center;"><strong>Demo 8</strong></td>
+    <!-- <td style="text-align: center;"><strong>Demo 7</strong></td>
+    <td style="text-align: center;"><strong>Demo 8</strong></td> -->
   </tr>
   <tr>
     <td>
@@ -327,7 +327,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         Your browser does not support the video tag.
       </video>
     </td>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_transformer_threshold/gpt_transformer_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -338,7 +338,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
         <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_univtg_narr_threshold/gpt_univtg_narr_threshold_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/TeaserDemo/versionB/UzivaxYf1iM/gpt_univtg_title_threshold/gpt_univtg_title_threshold_demo.mp4" type="video/mp4">
