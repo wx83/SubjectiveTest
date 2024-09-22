@@ -4,12 +4,12 @@ In this test, we are intersted in the performance of LLM generated script for te
 Note: Please select Version A on the first question of the survery. Thanks!
 
 # Section 1:
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
     <td style="text-align: center;"><strong>Demo 2</strong></td>
     <td style="text-align: center;"><strong>Demo 3</strong></td>
-
   </tr>
   <tr>
     <td>
@@ -59,6 +59,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 2:
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -113,6 +114,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 3:
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -167,12 +169,12 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 4:
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
     <td style="text-align: center;"><strong>Demo 2</strong></td>
     <td style="text-align: center;"><strong>Demo 3</strong></td>
-
   </tr>
   <tr>
     <td>
@@ -222,6 +224,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 5:
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Demo 1</strong></td>
@@ -276,6 +279,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 6:
+
 <table>
   <tr>
     <td>
@@ -305,6 +309,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 7
+
 <table>
   <tr>
     <td>
@@ -334,6 +339,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 8
+
 <table>
   <tr>
     <td>
@@ -363,6 +369,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 </table>
 
 # Section 9
+
 <table>
   <tr>
     <td>
@@ -393,6 +400,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 
 # Section 10
+
 <table>
   <tr>
     <td>
@@ -423,6 +431,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 
 # Section 11
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 | Growing up after World War II, the scarcity of Asian representation on screen led to excitement whenever an Asian character appeared, but these roles often perpetuated stereotypes, leaving Asian Americans feeling misrepresented and questioning their identity. |In the aftermath of World War II, Asian Americans grappled with a lack of representation and pervasive stereotypes, struggling to find their place in a conformist yet contradictory American society. The narrator recalls their grandmother, Mrs. Goon, the first Asian American honored as U.S. Mother of the Year in 1952, a symbol of the model minority and the American dream.|
@@ -441,6 +450,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 # Section 12
 <!-- videoname: 4xgPBb1xHYI-->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |At Cologne's Food Bank, Georg Rula and Ulf Greber, both retired volunteers, brace themselves for an eight-hour day of distributing food to 10,000 people in need. Amidst recent criticism of food banks turning away foreign newcomers, the initial freeze on new admissions due to aggressive behavior has now been redirected against foreigners, a policy the narrator disagrees with. |At Cologne's Food Bank, volunteers like Georg Rula dedicate their time to distributing donated food to those in need, amidst growing criticism and controversial decisions such as the recent exclusion of foreign newcomers in Essen.|
@@ -452,7 +462,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 ||A Kurdish family, including a German-speaking daughter, waits at a food bank where everyone receives ample food for a small fee, and volunteers like Doris ensure even the sick are provided for, highlighting efforts to prevent hunger in Germany.|
 
 # Section 13:
-<!-- videoname:kRpPu6OoP00 -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |We traveled west from Kabul to the war-torn province of Maidan-Wardak to meet Dr. Rochanak Wardak, a former politician and Taliban supporter, who reminisces about her efforts to build a new Afghanistan governed by parliament. War devastated the country, halting its development and education, leading Dr. Rochanak, a gynecologist who now runs a small home clinic, to witness her patients still suffering from the war's deprivation. |The journey west from Kabul to the war-torn province of Maidan-Wardak was fraught with memories of conflict and hope. Dr. Rochanak Wardak, a former politician and Taliban supporter, welcomed us into her small home clinic. |
@@ -465,7 +475,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 
 # Section 14:
-<!-- video_name: o4ah2I8YjkQ -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |Anthony, dressed as an apostle, joins a rally in Matera's Old Town, where a film about Jesus intertwines with a real-life protest led by migrants against the exploitation of African refugees, demanding fair working conditions and residency permits, symbolized by the crushing of tomatoes to represent the fight against corporate exploitation. |Anthony, dressed as an apostle, stepped into the bustling heart of Matera's Old Town, where ancient stone streets doubled as a film set for a movie about Jesus and the epicenter of a real-life protest. The rally, a vivid tableau of crushed tomatoes and impassioned voices, demanded fair working conditions and residency permits for African refugees. Local farmers, migrants, and tourists united in a powerful demonstration against exploitation, highlighting the plight of seasonal laborers in southern Italy, many of whom lived in camps and faced mafia extortion. |
@@ -478,7 +488,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
 
 
 # Section 15:
-<!-- videoname:vbl7QeqfE-Q -->
+
 | **Narration 1** | **Narration 2** |
 |-----------------|-----------------|
 |Deepwater Horizon, a high-tech drilling rig rented by oil companies for challenging drilling operations, faced a critical situation when mud started leaking, leading to a series of alarms and escalating tension among the crew as they tried to manage the emergency. A sudden and catastrophic engine failure caused multiple explosions, leaving the narrator injured and struggling to escape a dark, debris-filled environment while issuing a Mayday call. |Deepwater Horizon, a high-tech drilling rig rented by oil companies for challenging operations, faced a critical situation when mud started leaking, triggering a series of alarms and escalating tension among the crew. A sudden and catastrophic engine failure caused multiple explosions, leaving the narrator injured and struggling to escape a dark, debris-filled environment while issuing a Mayday call.|
