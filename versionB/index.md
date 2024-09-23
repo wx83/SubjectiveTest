@@ -7,9 +7,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
   <tr>
     <td>
@@ -32,9 +32,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 4</strong></td>
-    <td style="text-align: center;"><strong>Demo 5</strong></td>
-    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
     <td>
@@ -62,9 +62,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
   <tr>
     <td>
@@ -87,9 +87,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 4</strong></td>
-    <td style="text-align: center;"><strong>Demo 5</strong></td>
-    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
     <td>
@@ -117,9 +117,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
   <tr>
     <td>
@@ -142,9 +142,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 4</strong></td>
-    <td style="text-align: center;"><strong>Demo 5</strong></td>
-    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
     <td>
@@ -174,9 +174,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
   <tr>
     <td>
@@ -199,9 +199,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 4</strong></td>
-    <td style="text-align: center;"><strong>Demo 5</strong></td>
-    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
     <td>
@@ -229,9 +229,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
   <tr>
     <td>
@@ -254,9 +254,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 4</strong></td>
-    <td style="text-align: center;"><strong>Demo 5</strong></td>
-    <td style="text-align: center;"><strong>Demo 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
     <td>
@@ -304,9 +304,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
 </table>
 
@@ -334,9 +334,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
 </table>
 
@@ -364,9 +364,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
 </table>
 
@@ -394,9 +394,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
 </table>
 
@@ -425,9 +425,9 @@ Note: Please select Version B on the first question of the survery. Thanks!
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Demo 1</strong></td>
-    <td style="text-align: center;"><strong>Demo 2</strong></td>
-    <td style="text-align: center;"><strong>Demo 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
   </tr>
 </table>
 
